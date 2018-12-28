@@ -1,2 +1,2 @@
 # final
-A very minimal repo used to allow scrumasters access
+A simple simulation of Pokemon Safari Zone using JavaFx.
